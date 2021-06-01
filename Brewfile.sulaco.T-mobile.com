@@ -215,13 +215,86 @@ cask "vlc"
 cask "vox"
 cask "wine-stable"
 cask "xquartz"
-mas "com.apple.garageband10", id: 682658836
-mas "com.apple.iMovieApp", id: 408981434
-mas "com.apple.InstallAssistant.Catalina", id: 0
-mas "com.apple.InstallAssistant.ElCapitan", id: 1018109117
-mas "com.apple.InstallAssistant.ElCapitan", id: 1018109117
-mas "com.apple.InstallAssistant.Yosemite", id: 915041082
-mas "com.apple.InstallAssistant.Yosemite", id: 915041082
-mas "com.apple.iWork.Keynote", id: 409183694
-mas "com.apple.iWork.Numbers", id: 409203825
-mas "com.apple.iWork.Pages", id: 409201541
+mas "Amphetamine", id: 937984704
+mas "Annotate", id: 918207447
+mas "Bear", id: 1091189122
+mas "BigHairyGoal", id: 699877408
+mas "Black Ink", id: 1487333695
+mas "Boop", id: 1518425043
+mas "Breathing Zone", id: 411308612
+mas "Caffeinated", id: 1362171212
+mas "CiderTV", id: 1065907486
+mas "Confluently", id: 1290720256
+mas "Day One", id: 1055511498
+mas "Developer", id: 640199958
+mas "Directive", id: 1503550067
+mas "Discovery", id: 1381004916
+mas "Disk Speed Test", id: 425264550
+mas "Doo", id: 1107759193
+mas "Drafts", id: 1435957248
+mas "Flowchart Designer", id: 1107185578
+mas "Gemini 2", id: 1090488118
+mas "Grammarly for Safari", id: 1462114288
+mas "Home Inventory", id: 413564952
+mas "HotKey", id: 975890633
+mas "Instapaper", id: 288545208
+mas "Instapaper Save", id: 1481302432
+mas "iStatistica", id: 1025822138
+mas "Jigsaw Puzzle Club", id: 1328936029
+mas "Jigsaws Galore", id: 426250075
+mas "Jira", id: 1475897096
+mas "Journey", id: 1489704689
+mas "Keynote", id: 409183694
+mas "Kindle", id: 405399194
+mas "LinkedIdeas", id: 1354473315
+mas "MacFamilyTree 9", id: 1458866808
+mas "Mactracker", id: 430255202
+mas "MarksSudokuHelper", id: 1209871809
+mas "Microsoft Excel", id: 462058435
+mas "Microsoft OneNote", id: 784801555
+mas "Microsoft Remote Desktop", id: 1295203466
+mas "Microsoft Word", id: 462054704
+mas "MindMaple", id: 731829889
+mas "MindNode", id: 1289197285
+mas "Minesweeper", id: 1475921958
+mas "Mini Motorways", id: 1456188526
+mas "Mint QuickView", id: 533491939
+mas "Mirror My Screen", id: 1525556960
+mas "Moom", id: 419330170
+mas "Moonlight Mahjong", id: 438072162
+mas "Numbers", id: 409203825
+mas "Optimal Layout", id: 412627292
+mas "Overlap", id: 1516950324
+mas "Pages", id: 409201541
+mas "Paper", id: 1143513744
+mas "Paste JSON as Code • quicktype", id: 1330801220
+mas "Phiewer (lite)", id: 1226444549
+mas "Physics 101", id: 435293897
+mas "Pikka", id: 1195076754
+mas "Pixelmator", id: 407963104
+mas "PixelStick", id: 415158530
+mas "Raindrop.io for Safari", id: 957810159
+mas "Scapple", id: 568020055
+mas "Screen Mirror to TV & Device", id: 1496988766
+mas "Shorui", id: 1448111859
+mas "Simple Comic", id: 1497435571
+mas "Slack", id: 803453959
+mas "Smart JSON Editor", id: 1268962404
+mas "SnippetsLab", id: 1006087419
+mas "SonicWall Mobile Connect", id: 822514576
+mas "Soulver 3", id: 1508732804
+mas "Spark", id: 1176895641
+mas "Speedtest", id: 1153157709
+mas "Svgsus", id: 1106867065
+mas "Tabs Saver for Safari", id: 1440006971
+mas "Taskade", id: 1490048917
+mas "Time Out", id: 402592703
+mas "Todoist", id: 585829637
+mas "Trello", id: 1278508951
+mas "TweetDeck", id: 485812721
+mas "Tyme", id: 1461456897
+mas "Unclutter", id: 577085396
+mas "VisualDesigner", id: 1193683552
+mas "Xcode", id: 497799835
+mas "XMind", id: 1327661892
+mas "♡ Sudoku", id: 408896152
