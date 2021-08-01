@@ -121,7 +121,7 @@ brew "watch"
 brew "wget"
 brew "whatmask"
 brew "wimlib"
-brew "wxmac"
+brew "wxwidgets"
 brew "yarn"
 brew "z"
 brew "zlib"
@@ -226,6 +226,8 @@ cask "vlc"
 cask "vox"
 cask "wine-stable"
 cask "xquartz"
+mas "1Password for Safari", id: 1569813296
+mas "Airmail", id: 918858936
 mas "Amphetamine", id: 937984704
 mas "Annotate", id: 918207447
 mas "Bear", id: 1091189122
@@ -233,8 +235,12 @@ mas "BigHairyGoal", id: 699877408
 mas "Black Ink", id: 1487333695
 mas "Boop", id: 1518425043
 mas "Breathing Zone", id: 411308612
+mas "Build Monitor Buddy", id: 1278619902
 mas "Caffeinated", id: 1362171212
+mas "Canary Mail", id: 1236045954
 mas "CiderTV", id: 1065907486
+mas "CiPol", id: 1554202472
+mas "com.adriangranados.wifiexplorerlite", id: 1408727408
 mas "Confluently", id: 1290720256
 mas "Day One", id: 1055511498
 mas "Developer", id: 640199958
@@ -244,6 +250,7 @@ mas "Disk Speed Test", id: 425264550
 mas "Doo", id: 1107759193
 mas "Drafts", id: 1435957248
 mas "Flowchart Designer", id: 1107185578
+mas "Full Deck Solitaire", id: 412980789
 mas "Gemini 2", id: 1090488118
 mas "Grammarly for Safari", id: 1462114288
 mas "Health Auto Export", id: 1115567069
@@ -264,6 +271,7 @@ mas "Mactracker", id: 430255202
 mas "MarksSudokuHelper", id: 1209871809
 mas "Microsoft Excel", id: 462058435
 mas "Microsoft OneNote", id: 784801555
+mas "Microsoft Outlook", id: 985367838
 mas "Microsoft Remote Desktop", id: 1295203466
 mas "Microsoft Word", id: 462054704
 mas "MindMaple", id: 731829889
@@ -308,6 +316,6 @@ mas "TweetDeck", id: 485812721
 mas "Tyme", id: 1461456897
 mas "Unclutter", id: 577085396
 mas "VisualDesigner", id: 1193683552
+mas "WiFi Signal", id: 525912054
 mas "Xcode", id: 497799835
-mas "XMind", id: 1327661892
 mas "♡ Sudoku", id: 408896152
