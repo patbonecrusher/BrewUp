@@ -35,7 +35,7 @@ brew "dos2unix"
 brew "doxygen"
 brew "dpkg"
 brew "libtool"
-brew "emacs"
+brew "emacs", restart_service: true
 brew "exa"
 brew "exiftool"
 brew "fakeroot"
@@ -43,6 +43,7 @@ brew "fdupes"
 brew "gobject-introspection"
 brew "gnuplot"
 brew "feedgnuplot"
+brew "ffmpeg"
 brew "findutils"
 brew "fortune"
 brew "fswatch"
@@ -91,7 +92,7 @@ brew "qscintilla2"
 brew "suite-sparse"
 brew "octave"
 brew "open-ocd"
-brew "openvpn"
+brew "openvpn", restart_service: true
 brew "p7zip"
 brew "parallel"
 brew "peco"
@@ -181,6 +182,7 @@ cask "lighttable"
 cask "lulu"
 cask "macsvg"
 cask "macvim"
+cask "mailspring"
 cask "microsoft-teams"
 cask "musicbrainz-picard"
 cask "netiquette"
@@ -293,7 +295,10 @@ mas "Physics 101", id: 435293897
 mas "Pikka", id: 1195076754
 mas "Pixelmator", id: 407963104
 mas "PixelStick", id: 415158530
+mas "Quick Note", id: 1472935217
 mas "Raindrop.io for Safari", id: 957810159
+mas "Rsyncinator", id: 1569680330
+mas "Save to Raindrop.io", id: 1549370672
 mas "Scapple", id: 568020055
 mas "Screen Mirror to TV & Device", id: 1496988766
 mas "Shorui", id: 1448111859
@@ -310,6 +315,7 @@ mas "Svgsus", id: 1106867065
 mas "Tabs Saver for Safari", id: 1440006971
 mas "Taskade", id: 1490048917
 mas "Time Out", id: 402592703
+mas "Toast", id: 1465707487
 mas "Todoist", id: 585829637
 mas "Trello", id: 1278508951
 mas "TweetDeck", id: 485812721
