@@ -10,7 +10,6 @@ tap "sebglazebrook/aliases"
 brew "libyaml"
 brew "readline"
 brew "ansible"
-brew "archey"
 brew "asciinema"
 brew "gettext"
 brew "automake"
@@ -22,7 +21,6 @@ brew "osx-cpu-temp"
 brew "bpytop", link: false
 brew "pkg-config"
 brew "carthage"
-brew "cash-cli"
 brew "cmake"
 brew "coreutils"
 brew "cowsay"
@@ -39,7 +37,6 @@ brew "libtool"
 brew "emacs"
 brew "exa"
 brew "exiftool"
-brew "fakeroot"
 brew "fdupes"
 brew "gobject-introspection"
 brew "gnuplot"
@@ -301,10 +298,13 @@ mas "Physics 101", id: 435293897
 mas "Pikka", id: 1195076754
 mas "Pixelmator", id: 407963104
 mas "PixelStick", id: 415158530
+mas "QR Capture", id: 1369524274
+mas "QR Journal", id: 483820530
 mas "Quick Note", id: 1472935217
 mas "Raindrop.io for Safari", id: 957810159
 mas "Rsyncinator", id: 1569680330
 mas "Save to Raindrop.io", id: 1549370672
+mas "Scanner Unlimited", id: 1439290223
 mas "Scapple", id: 568020055
 mas "Screen Mirror to TV & Device", id: 1496988766
 mas "Shorui", id: 1448111859
