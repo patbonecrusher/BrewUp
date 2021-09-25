@@ -241,6 +241,7 @@ cask "vox"
 cask "wine-stable"
 cask "xquartz"
 mas "1Password for Safari", id: 1569813296
+mas "250+ Solitaires", id: 680532369
 mas "Airmail", id: 918858936
 mas "Amphetamine", id: 937984704
 mas "Annotate", id: 918207447
