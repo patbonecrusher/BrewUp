@@ -289,9 +289,11 @@ mas "Microsoft OneNote", id: 784801555
 mas "Microsoft Outlook", id: 985367838
 mas "Microsoft Remote Desktop", id: 1295203466
 mas "Microsoft Word", id: 462054704
+mas "Mindmap Notes", id: 1522142579
 mas "MindMaple", id: 731829889
 mas "MindNode", id: 1289197285
 mas "Minesweeper", id: 1475921958
+mas "Mini Metro+", id: 1550663539
 mas "Mini Motorways", id: 1456188526
 mas "Mint QuickView", id: 533491939
 mas "Mirror My Screen", id: 1525556960
@@ -319,6 +321,7 @@ mas "Scapple", id: 568020055
 mas "Screen Mirror to TV & Device", id: 1496988766
 mas "Shorui", id: 1448111859
 mas "Simple Comic", id: 1497435571
+mas "SimpleMind", id: 439654198
 mas "Slack", id: 803453959
 mas "Smart JSON Editor", id: 1268962404
 mas "SnippetsLab", id: 1006087419
