@@ -120,6 +120,7 @@ brew "telnet"
 brew "the_silver_searcher"
 brew "tig"
 brew "tmux"
+brew "tmuxp"
 brew "tree"
 brew "unixodbc"
 brew "vim", link: false
@@ -270,6 +271,7 @@ mas "Gemini 2", id: 1090488118
 mas "Grammarly for Safari", id: 1462114288
 mas "Health Auto Export", id: 1115567069
 mas "Home Inventory", id: 413564952
+mas "Honey", id: 1472777122
 mas "HotKey", id: 975890633
 mas "Instapaper", id: 288545208
 mas "Instapaper Save", id: 1481302432
