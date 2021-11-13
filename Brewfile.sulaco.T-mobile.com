@@ -8,6 +8,7 @@ tap "homebrew/services"
 tap "nativeos/i386-elf-toolchain"
 tap "sebglazebrook/aliases"
 tap "zanders3/gcc_cross_compilers"
+brew "aha"
 brew "libyaml"
 brew "readline"
 brew "ansible"
@@ -43,6 +44,7 @@ brew "fdupes"
 brew "gobject-introspection"
 brew "gnuplot"
 brew "feedgnuplot"
+brew "tesseract"
 brew "ffmpeg"
 brew "findutils"
 brew "fortune"
@@ -177,6 +179,7 @@ cask "gitter"
 cask "gitup"
 cask "google-chrome"
 cask "google-chrome-canary"
+cask "growlnotify"
 cask "hammerspoon"
 cask "hex-fiend"
 cask "hydrogen"
@@ -219,6 +222,7 @@ cask "rawtherapee"
 cask "riot"
 cask "runjs"
 cask "shift"
+cask "sleek"
 cask "spectacle"
 cask "speedcrunch"
 cask "spotify"
@@ -290,6 +294,7 @@ mas "Microsoft Excel", id: 462058435
 mas "Microsoft OneNote", id: 784801555
 mas "Microsoft Outlook", id: 985367838
 mas "Microsoft Remote Desktop", id: 1295203466
+mas "Microsoft To Do", id: 1274495053
 mas "Microsoft Word", id: 462054704
 mas "Mindmap Notes", id: 1522142579
 mas "MindMaple", id: 731829889
@@ -302,6 +307,7 @@ mas "Mirror My Screen", id: 1525556960
 mas "Moom", id: 419330170
 mas "Moonlight Mahjong", id: 438072162
 mas "Numbers", id: 409203825
+mas "OmniFocus", id: 1346203938
 mas "Optimal Layout", id: 412627292
 mas "Overlap", id: 1516950324
 mas "Pages", id: 409201541
@@ -321,6 +327,7 @@ mas "Save to Raindrop.io", id: 1549370672
 mas "Scanner Unlimited", id: 1439290223
 mas "Scapple", id: 568020055
 mas "Screen Mirror to TV & Device", id: 1496988766
+mas "Session", id: 1521432881
 mas "Shorui", id: 1448111859
 mas "Simple Comic", id: 1497435571
 mas "SimpleMind", id: 439654198
@@ -335,6 +342,7 @@ mas "Super Productivity", id: 1482572463
 mas "Svgsus", id: 1106867065
 mas "Tabs Saver for Safari", id: 1440006971
 mas "Taskade", id: 1490048917
+mas "Taskheat", id: 1431995750
 mas "Time Out", id: 402592703
 mas "Toast", id: 1465707487
 mas "Todoist", id: 585829637
