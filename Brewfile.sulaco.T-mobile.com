@@ -37,7 +37,7 @@ brew "dockutil"
 brew "dos2unix"
 brew "doxygen"
 brew "dpkg"
-brew "emacs"
+brew "emacs", restart_service: true
 brew "exa"
 brew "exiftool"
 brew "fdupes"
@@ -47,6 +47,7 @@ brew "feedgnuplot"
 brew "tesseract"
 brew "ffmpeg"
 brew "findutils"
+brew "fish"
 brew "fortune"
 brew "fswatch"
 brew "gdb"
@@ -97,7 +98,7 @@ brew "qscintilla2"
 brew "suite-sparse"
 brew "octave"
 brew "open-ocd"
-brew "openvpn"
+brew "openvpn", restart_service: true
 brew "p7zip"
 brew "parallel"
 brew "peco"
@@ -118,9 +119,13 @@ brew "sip"
 brew "slurm"
 brew "speedtest-cli"
 brew "tag"
+brew "task"
+brew "taskd"
+brew "tasksh"
 brew "telnet"
 brew "the_silver_searcher"
 brew "tig"
+brew "timewarrior"
 brew "tmux"
 brew "tmuxp"
 brew "tree"
@@ -249,6 +254,7 @@ cask "xquartz"
 mas "1Password for Safari", id: 1569813296
 mas "250+ Solitaires", id: 680532369
 mas "Airmail", id: 918858936
+mas "Almighty", id: 1576440429
 mas "Amphetamine", id: 937984704
 mas "Annotate", id: 918207447
 mas "Bear", id: 1091189122
@@ -261,8 +267,10 @@ mas "Caffeinated", id: 1362171212
 mas "Canary Mail", id: 1236045954
 mas "CiderTV", id: 1065907486
 mas "CiPol", id: 1554202472
+mas "Clockify Desktop", id: 1364502317
 mas "com.adriangranados.wifiexplorerlite", id: 1408727408
 mas "Confluently", id: 1290720256
+mas "Craft", id: 1487937127
 mas "Day One", id: 1055511498
 mas "Developer", id: 640199958
 mas "Directive", id: 1503550067
@@ -271,13 +279,16 @@ mas "Disk Speed Test", id: 425264550
 mas "Doo", id: 1107759193
 mas "Drafts", id: 1435957248
 mas "Flowchart Designer", id: 1107185578
+mas "Focus", id: 777233759
 mas "Full Deck Solitaire", id: 412980789
 mas "Gemini 2", id: 1090488118
 mas "Grammarly for Safari", id: 1462114288
+mas "Harvest", id: 506189836
 mas "Health Auto Export", id: 1115567069
 mas "Home Inventory", id: 413564952
 mas "Honey", id: 1472777122
 mas "HotKey", id: 975890633
+mas "Hours", id: 895933956
 mas "Instapaper", id: 288545208
 mas "Instapaper Save", id: 1481302432
 mas "iStatistica", id: 1025822138
@@ -307,6 +318,7 @@ mas "Mint QuickView", id: 533491939
 mas "Mirror My Screen", id: 1525556960
 mas "Moom", id: 419330170
 mas "Moonlight Mahjong", id: 438072162
+mas "Motif", id: 1404636482
 mas "Numbers", id: 409203825
 mas "OmniFocus", id: 1346203938
 mas "Optimal Layout", id: 412627292
@@ -318,6 +330,7 @@ mas "Phiewer (lite)", id: 1226444549
 mas "Physics 101", id: 435293897
 mas "Pikka", id: 1195076754
 mas "Pixelmator", id: 407963104
+mas "Pixelmator Pro", id: 1289583905
 mas "PixelStick", id: 415158530
 mas "QR Capture", id: 1369524274
 mas "QR Journal", id: 483820530
@@ -350,8 +363,10 @@ mas "Todoist", id: 585829637
 mas "Trello", id: 1278508951
 mas "TweetDeck", id: 485812721
 mas "Tyme", id: 1461456897
+mas "Ulysses", id: 1225570693
 mas "Unclutter", id: 577085396
 mas "VisualDesigner", id: 1193683552
 mas "WiFi Signal", id: 525912054
+mas "WorkingHours", id: 1495643653
 mas "Xcode", id: 497799835
 mas "♡ Sudoku", id: 408896152
