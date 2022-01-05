@@ -52,6 +52,7 @@ brew "fortune"
 brew "fswatch"
 brew "gdb"
 brew "geoip"
+brew "gh"
 brew "git"
 brew "git-cal"
 brew "git-extras"
@@ -257,6 +258,7 @@ mas "Airmail", id: 918858936
 mas "Almighty", id: 1576440429
 mas "Amphetamine", id: 937984704
 mas "Annotate", id: 918207447
+mas "AudioSwitcher", id: 561712678
 mas "Bear", id: 1091189122
 mas "BigHairyGoal", id: 699877408
 mas "Black Ink", id: 1487333695
@@ -271,6 +273,7 @@ mas "Clockify Desktop", id: 1364502317
 mas "com.adriangranados.wifiexplorerlite", id: 1408727408
 mas "Confluently", id: 1290720256
 mas "Craft", id: 1487937127
+mas "Dark Reader for Safari", id: 1438243180
 mas "Day One", id: 1055511498
 mas "Developer", id: 640199958
 mas "Directive", id: 1503550067
@@ -332,10 +335,12 @@ mas "Pikka", id: 1195076754
 mas "Pixelmator", id: 407963104
 mas "Pixelmator Pro", id: 1289583905
 mas "PixelStick", id: 415158530
+mas "Pocket", id: 568494494
 mas "QR Capture", id: 1369524274
 mas "QR Journal", id: 483820530
 mas "Quick Note", id: 1472935217
 mas "Raindrop.io for Safari", id: 957810159
+mas "ReadKit", id: 588726889
 mas "Rsyncinator", id: 1569680330
 mas "Save to Raindrop.io", id: 1549370672
 mas "Scanner Unlimited", id: 1439290223
