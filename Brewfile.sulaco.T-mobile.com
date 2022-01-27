@@ -1,5 +1,6 @@
 tap "armmbed/formulae"
 tap "buo/cask-upgrade"
+tap "ellie/atuin"
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/cask-versions"
@@ -12,8 +13,10 @@ brew "aha"
 brew "libyaml"
 brew "readline"
 brew "ansible"
+brew "ansible-lint"
 brew "asciinema"
 brew "gettext"
+brew "atuin"
 brew "automake"
 brew "awscli"
 brew "bash"
@@ -172,6 +175,7 @@ cask "docker"
 cask "dozer"
 cask "fantastical"
 cask "fastscripts"
+cask "finicky"
 cask "firefox"
 cask "firefox-developer-edition"
 cask "flux"
@@ -238,6 +242,7 @@ cask "sqlitemanager"
 cask "staruml"
 cask "synergy"
 cask "teamviewer"
+cask "temurin"
 cask "the-unarchiver"
 cask "thorium"
 cask "toinane-colorpicker"
@@ -273,6 +278,7 @@ mas "CiPol", id: 1554202472
 mas "Clockify Desktop", id: 1364502317
 mas "com.adriangranados.wifiexplorerlite", id: 1408727408
 mas "Confluently", id: 1290720256
+mas "Core Shell", id: 1354319581
 mas "Craft", id: 1487937127
 mas "Dark Reader for Safari", id: 1438243180
 mas "Day One", id: 1055511498
@@ -309,6 +315,7 @@ mas "MarksSudokuHelper", id: 1209871809
 mas "Microsoft Excel", id: 462058435
 mas "Microsoft OneNote", id: 784801555
 mas "Microsoft Outlook", id: 985367838
+mas "Microsoft PowerPoint", id: 462062816
 mas "Microsoft Remote Desktop", id: 1295203466
 mas "Microsoft To Do", id: 1274495053
 mas "Microsoft Word", id: 462054704
@@ -330,6 +337,7 @@ mas "Overlap", id: 1516950324
 mas "Pages", id: 409201541
 mas "Paper", id: 1143513744
 mas "Paste JSON as Code • quicktype", id: 1330801220
+mas "Patterns", id: 429449079
 mas "Phiewer (lite)", id: 1226444549
 mas "Physics 101", id: 435293897
 mas "Pikka", id: 1195076754
@@ -342,6 +350,7 @@ mas "QR Journal", id: 483820530
 mas "Quick Note", id: 1472935217
 mas "Raindrop.io for Safari", id: 957810159
 mas "ReadKit", id: 588726889
+mas "Reeder", id: 1529448980
 mas "Rsyncinator", id: 1569680330
 mas "Save to Raindrop.io", id: 1549370672
 mas "Scanner Unlimited", id: 1439290223
@@ -363,6 +372,7 @@ mas "Svgsus", id: 1106867065
 mas "Tabs Saver for Safari", id: 1440006971
 mas "Taskade", id: 1490048917
 mas "Taskheat", id: 1431995750
+mas "Things", id: 904280696
 mas "Time Out", id: 402592703
 mas "Toast", id: 1465707487
 mas "Todoist", id: 585829637
