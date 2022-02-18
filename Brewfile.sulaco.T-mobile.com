@@ -24,6 +24,7 @@ brew "awscli"
 brew "bash"
 brew "bash-completion"
 brew "bat"
+brew "blueutil"
 brew "libtool"
 brew "bochs"
 brew "osx-cpu-temp"
@@ -127,6 +128,7 @@ brew "screenfetch"
 brew "scriptcs"
 brew "shellcheck"
 brew "sip"
+brew "sleepwatcher"
 brew "slurm"
 brew "socat"
 brew "speedtest-cli"
@@ -159,6 +161,7 @@ brew "nativeos/i386-elf-toolchain/i386-elf-binutils"
 brew "nativeos/i386-elf-toolchain/i386-elf-gcc", link: false
 brew "sebglazebrook/aliases/aliases"
 cask "5kplayer"
+cask "adium"
 cask "alacritty"
 cask "amethyst"
 cask "android-file-transfer"
@@ -365,6 +368,7 @@ mas "Scanner Unlimited", id: 1439290223
 mas "Scapple", id: 568020055
 mas "Screen Mirror to TV & Device", id: 1496988766
 mas "Session", id: 1521432881
+mas "Shortery", id: 1594183810
 mas "Shorui", id: 1448111859
 mas "Simple Comic", id: 1497435571
 mas "SimpleMind", id: 439654198
@@ -389,6 +393,7 @@ mas "TweetDeck", id: 485812721
 mas "Tyme", id: 1461456897
 mas "Ulysses", id: 1225570693
 mas "Unclutter", id: 577085396
+mas "Vimari", id: 1480933944
 mas "VisualDesigner", id: 1193683552
 mas "WiFi Signal", id: 525912054
 mas "WorkingHours", id: 1495643653
