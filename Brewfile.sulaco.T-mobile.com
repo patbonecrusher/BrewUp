@@ -297,6 +297,7 @@ mas "Developer", id: 640199958
 mas "Directive", id: 1503550067
 mas "Discovery", id: 1381004916
 mas "Disk Speed Test", id: 425264550
+mas "DNS Client", id: 1517487743
 mas "Doo", id: 1107759193
 mas "Drafts", id: 1435957248
 mas "Flowchart Designer", id: 1107185578
