@@ -6,57 +6,58 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://mit-license.org/)
 
 <p align="center">
-    <img src="https://w.3os.org/3os/brewup/Cover.jpg" width=500>
+    <img src="https://user-images.githubusercontent.com/16795594/152403554-eb859e26-8232-4759-ba27-f025069c6f83.jpg" width=500>
 </p>
 
 ## Description
 
 Brewup script is a Bash script that uses [Homebrew - The Missing Package Manager for macOS](https://brew.sh/) as it's base.
-Brewup uses GitHub as a "backup" of a config file which contains all installed Taps, Formulas, Casks and App Store Apps at your macOS. It also allows the use of __Github__ main function of retaining changes so you can always look up for the package that were installed sometime ago and you just forgot what is was exactly.
+Brewup uses GitHub as a "backup" of a config file which contains all installed Taps, Formulas, Casks and App Store Apps at your macOS. It also allows the use of **Github** main function of retaining changes so you can always look up for the package that were installed sometime ago and you just forgot what is was exactly.
 
-__Visit as at [3os.org](https://3os.org) for more guides and tips for macOS__
+**Visit as at [3os.org](https://3os.org) for more guides and tips for macOS**
 
 ## What Brewup Actually Does
 
 It just runs few [Brew functionality](https://docs.brew.sh/) automatically:
 
-* brew doctor
-* brew missing
-* brew upgrade
-* brew cask upgrade
-* brew cleanup
-* App Store Updates
-* Creating Updated [Brewfile](https://github.com/Homebrew/homebrew-bundle)
-* Pushing changes to Git
+- brew doctor
+- brew missing
+- brew upgrade
+- brew cask upgrade
+- brew cleanup
+- App Store Updates
+- Creating Updated [Brewfile](https://github.com/Homebrew/homebrew-bundle)
+- Pushing changes to Git
 
 ## Requirements
 
-* [Homebrew The missing package manager for macOS](https://brew.sh/)
-* [git (with active account)](https://github.com/)
-* Mas, terminal-notifier, coreutils __(will be installed if missing at the first script execution)__
+- [Homebrew The missing package manager for macOS](https://brew.sh/)
+- [git (with active account)](https://github.com/)
+- Mas, terminal-notifier, coreutils **(will be installed if missing at the first script execution)**
 
 ## Installing
 
-__Fork__ the repository __don't clone__ it
+Use this repository as template, it will create a `Fork` for you and you can start using it.
 
-![how to fork](https://w.3os.org/3os/brewup/fork.jpg)
+```shell
+git clone <paste the your repo url here>
+```
 
-Copy the url of your new created __Fork__
+```shell
+sudo ln -s ${PWD}/BrewUp/brewup.sh /usr/local/bin/brewup
+```
 
-![Copy the Url](https://w.3os.org/3os/brewup/clone.jpg)
+**Note: if `/usr/local/bin/` is missing create it with**
 
-This will clone the repository and create a symlink for use in the terminal
-
-```bash
-git clone <paste the copied url here>
-ln -s ${PWD}/BrewUp/brewup.sh /usr/local/bin/brewup
+```shell
+sudo mkdir /usr/local/bin/
 ```
 
 ## Usage
 
 just run from terminal:
 
-```bash
+```shell
 brewup
 ```
 
@@ -64,7 +65,7 @@ Install all apps from BrewFile:
 
 cd to local location you cloned your repository and run:
 
-```bash
+```shell
 brew bundle install --file=<BrewFile Name>
 ```
 
@@ -91,4 +92,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE.
-
