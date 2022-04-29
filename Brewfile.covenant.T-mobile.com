@@ -72,6 +72,7 @@ mas "1Password 7", id: 1333542190
 mas "Amphetamine", id: 937984704
 mas "Bear", id: 1091189122
 mas "Calca", id: 635758264
+mas "EasyRes", id: 688211836
 mas "GarageBand", id: 682658836
 mas "Harvest", id: 506189836
 mas "Home Inventory", id: 413564952
@@ -91,6 +92,7 @@ mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Pikka", id: 1195076754
 mas "Pixelmator Pro", id: 1289583905
+mas "PixelStick", id: 415158530
 mas "Quick Note", id: 1472935217
 mas "ReadKit", id: 588726889
 mas "Reeder", id: 1529448980
