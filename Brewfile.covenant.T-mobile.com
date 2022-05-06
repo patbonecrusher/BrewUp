@@ -12,6 +12,7 @@ brew "fswatch"
 brew "git"
 brew "graphviz"
 brew "htop"
+brew "hub"
 brew "jq"
 brew "make"
 brew "mas"
@@ -23,6 +24,7 @@ brew "pulumi"
 brew "the_silver_searcher"
 brew "tree"
 brew "romkatv/powerlevel10k/powerlevel10k"
+cask "appcleaner"
 cask "bartender"
 cask "basecamp"
 cask "cloudmounter"
@@ -39,8 +41,10 @@ cask "grammarly"
 cask "hammerspoon"
 cask "hex-fiend"
 cask "iterm2"
+cask "itsycal"
 cask "joplin"
 cask "klogg"
+cask "latest"
 cask "macvim"
 cask "meld"
 cask "microsoft-teams"
@@ -78,6 +82,7 @@ mas "Harvest", id: 506189836
 mas "Home Inventory", id: 413564952
 mas "iMovie", id: 408981434
 mas "Infinity New Tab (Pro)", id: 1600202109
+mas "Irvue", id: 1039633667
 mas "Jigsaws Galore", id: 426250075
 mas "Keynote", id: 409183694
 mas "MacFamilyTree 10", id: 1567970985
