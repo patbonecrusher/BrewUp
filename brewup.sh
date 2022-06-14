@@ -11,6 +11,7 @@ if which pyenv >/dev/null 2>&1; then
   brew='env PATH=${PATH//$(pyenv root)\/shims:/} brew'
 fi
 
+echo $PATH
 ## checks if mas, terminal-notifier are installed, if not will promt to install
 if [ -z $(which mas) ]; then
   brew install mas 2>/dev/null
