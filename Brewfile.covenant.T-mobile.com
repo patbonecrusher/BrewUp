@@ -39,6 +39,7 @@ brew "z"
 brew "riscv-software-src/riscv/riscv-gnu-toolchain", args: ["with-NOmultilib"]
 brew "riscv-software-src/riscv/riscv-tools"
 brew "romkatv/powerlevel10k/powerlevel10k"
+cask "alt-tab"
 cask "appcleaner"
 cask "bartender"
 cask "basecamp"
@@ -67,6 +68,7 @@ cask "macvim"
 cask "mark-text"
 cask "meld"
 cask "microsoft-teams"
+cask "monitorcontrol"
 cask "ngrok"
 cask "numi"
 cask "obsidian"
@@ -117,6 +119,7 @@ mas "Microsoft Word", id: 462054704
 mas "MindNode", id: 1289197285
 mas "Moom", id: 419330170
 mas "Numbers", id: 409203825
+mas "Page Screenshot for Safari", id: 1472715727
 mas "Pages", id: 409201541
 mas "Pikka", id: 1195076754
 mas "Pixelmator Pro", id: 1289583905
@@ -133,5 +136,6 @@ mas "Spark", id: 1176895641
 mas "Things", id: 904280696
 mas "Tot", id: 1491071483
 mas "Unclutter", id: 577085396
+mas "Under My Roof", id: 1524335878
 mas "Vimari", id: 1480933944
 mas "XMind", id: 1327661892
