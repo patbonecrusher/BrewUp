@@ -107,6 +107,7 @@ cask "vagrant-manager"
 cask "visual-studio-code"
 cask "vlc"
 cask "vnc-viewer"
+cask "yacreader"
 mas "1Password for Safari", id: 1569813296
 mas "Amphetamine", id: 937984704
 mas "Bear", id: 1091189122
@@ -121,6 +122,7 @@ mas "Infinity New Tab (Pro)", id: 1600202109
 mas "Irvue", id: 1039633667
 mas "Jigsaws Galore", id: 426250075
 mas "Keynote", id: 409183694
+mas "Kindle", id: 405399194
 mas "MacFamilyTree 10", id: 1567970985
 mas "Microsoft Excel", id: 462058435
 mas "Microsoft OneNote", id: 784801555
