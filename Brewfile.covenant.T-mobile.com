@@ -150,6 +150,7 @@ mas "Sigma Planner", id: 1106938042
 mas "Slack", id: 803453959
 mas "SnippetsLab", id: 1006087419
 mas "Spark", id: 1176895641
+mas "Steam Link", id: 1246969117
 mas "Tabs to Links", id: 1451408472
 mas "Things", id: 904280696
 mas "Tot", id: 1491071483
