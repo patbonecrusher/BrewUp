@@ -1,4 +1,5 @@
 tap "armmbed/formulae"
+tap "browsh-org/browsh"
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
@@ -44,9 +45,11 @@ brew "rlwrap"
 brew "the_silver_searcher"
 brew "tree"
 brew "vips"
+brew "wireguard-tools"
 brew "youtube-dl"
 brew "yt-dlp"
 brew "z"
+brew "browsh-org/browsh/browsh"
 brew "riscv-software-src/riscv/riscv-gnu-toolchain", args: ["with-NOmultilib"]
 brew "riscv-software-src/riscv/riscv-tools"
 brew "romkatv/powerlevel10k/powerlevel10k"
@@ -64,6 +67,7 @@ cask "drawio"
 cask "edex-ui"
 cask "fig"
 cask "finicky"
+cask "firefox"
 cask "fsmonitor"
 cask "github"
 cask "gitter"
@@ -77,12 +81,14 @@ cask "intellij-idea"
 cask "iterm2"
 cask "itsycal"
 cask "joplin"
+cask "kap"
 cask "klogg"
 cask "latest"
 cask "macvim"
 cask "mark-text"
 cask "meld"
 cask "microsoft-teams"
+cask "min"
 cask "monitorcontrol"
 cask "ngrok"
 cask "numi"
@@ -154,6 +160,7 @@ mas "Reeder", id: 1529448980
 mas "Rsyncinator", id: 1569680330
 mas "Save to Raindrop.io", id: 1549370672
 mas "Scapple", id: 568020055
+mas "SerialTools", id: 611021963
 mas "Sigma Planner", id: 1106938042
 mas "Slack", id: 803453959
 mas "SnippetsLab", id: 1006087419
@@ -168,4 +175,5 @@ mas "Unclutter", id: 577085396
 mas "Under My Roof", id: 1524335878
 mas "UPDF", id: 1619925971
 mas "Vimari", id: 1480933944
+mas "WireGuard", id: 1451685025
 mas "XMind", id: 1327661892
