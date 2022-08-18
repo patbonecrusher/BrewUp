@@ -125,6 +125,7 @@ mas "1Password for Safari", id: 1569813296
 mas "Amphetamine", id: 937984704
 mas "Bear", id: 1091189122
 mas "Calca", id: 635758264
+mas "Charmstone", id: 1563735522
 mas "Disk Speed Test", id: 425264550
 mas "EasyRes", id: 688211836
 mas "GarageBand", id: 682658836
@@ -137,6 +138,7 @@ mas "Jigsaws Galore", id: 426250075
 mas "Keynote", id: 409183694
 mas "Kindle", id: 405399194
 mas "MacFamilyTree 10", id: 1567970985
+mas "Meeter", id: 1510445899
 mas "Microsoft Excel", id: 462058435
 mas "Microsoft OneNote", id: 784801555
 mas "Microsoft Outlook", id: 985367838
