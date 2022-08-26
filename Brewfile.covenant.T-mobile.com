@@ -17,7 +17,6 @@ brew "cmake-docs"
 brew "colima"
 brew "coreutils"
 brew "dfu-util"
-brew "docker"
 brew "exa"
 brew "fswatch"
 brew "fzf"
@@ -27,6 +26,7 @@ brew "gping"
 brew "graphviz"
 brew "grep"
 brew "htop"
+brew "httrack"
 brew "hub"
 brew "imagemagick"
 brew "jq"
@@ -45,6 +45,7 @@ brew "rlwrap"
 brew "the_silver_searcher"
 brew "tree"
 brew "vips"
+brew "wget"
 brew "wireguard-tools"
 brew "youtube-dl"
 brew "yt-dlp"
@@ -63,6 +64,8 @@ cask "daisydisk"
 cask "dash"
 cask "diffmerge"
 cask "discord"
+cask "diskmaker-x"
+cask "docker"
 cask "drawio"
 cask "edex-ui"
 cask "fig"
@@ -133,6 +136,7 @@ mas "Harvest", id: 506189836
 mas "Home Inventory", id: 413564952
 mas "iMovie", id: 408981434
 mas "Infinity New Tab (Pro)", id: 1600202109
+mas "Install OS X Mavericks", id: 675248567
 mas "Irvue", id: 1039633667
 mas "Jigsaws Galore", id: 426250075
 mas "Keynote", id: 409183694
