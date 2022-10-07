@@ -4,14 +4,20 @@ tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/cask-fonts"
 tap "homebrew/core"
+tap "homebrew/services"
+tap "koekeishiya/formulae"
 tap "louisbrunner/valgrind"
+tap "pulumi/tap"
 tap "riscv-software-src/riscv"
 tap "romkatv/powerlevel10k"
+brew "python@3.10"
+brew "ansible"
 brew "argp-standalone"
 brew "aws-console"
 brew "awscli"
 brew "bat"
 brew "harfbuzz"
+brew "gobject-introspection"
 brew "binwalk"
 brew "bottom"
 brew "broot"
@@ -19,10 +25,16 @@ brew "btop"
 brew "calcurse"
 brew "cmake"
 brew "cmake-docs"
+brew "unbound"
+brew "gnutls"
+brew "libusb"
+brew "qemu"
 brew "colima"
 brew "coreutils"
+brew "curl"
 brew "dfu-util"
 brew "diskonaut"
+brew "doxygen"
 brew "exa"
 brew "fd"
 brew "fswatch"
@@ -34,12 +46,14 @@ brew "gotop"
 brew "gping"
 brew "graphviz"
 brew "grep"
+brew "hdf5"
 brew "htop"
 brew "httrack"
 brew "hub"
 brew "imagemagick"
 brew "jq"
 brew "lazygit"
+brew "libftdi"
 brew "lnav"
 brew "make"
 brew "mas"
@@ -59,7 +73,7 @@ brew "pcalc"
 brew "pdm"
 brew "pfetch"
 brew "procs"
-brew "pulumi"
+brew "qt"
 brew "ranger"
 brew "rlwrap"
 brew "shfmt"
@@ -71,21 +85,29 @@ brew "vips"
 brew "vitetris"
 brew "wget"
 brew "wireguard-tools"
+brew "xauth"
+brew "ydiff"
 brew "youtube-dl"
 brew "yt-dlp"
 brew "z"
 brew "browsh-org/browsh/browsh"
+brew "koekeishiya/formulae/skhd"
+brew "koekeishiya/formulae/yabai"
+brew "pulumi/tap/pulumi"
 brew "riscv-software-src/riscv/riscv-gnu-toolchain", args: ["with-NOmultilib"]
 brew "riscv-software-src/riscv/riscv-tools"
 brew "romkatv/powerlevel10k/powerlevel10k"
 cask "alt-tab"
+cask "android-platform-tools"
 cask "android-studio"
 cask "appcleaner"
 cask "bartender"
 cask "basecamp"
+cask "cheatsheet"
 cask "cloudmounter"
 cask "daisydisk"
 cask "dash"
+cask "debookee"
 cask "diffmerge"
 cask "discord"
 cask "diskmaker-x"
@@ -152,9 +174,11 @@ cask "visual-studio-code"
 cask "vlc"
 cask "vnc-viewer"
 cask "wezterm"
+cask "xquartz"
 cask "yacreader"
 mas "1Password for Safari", id: 1569813296
 mas "Amphetamine", id: 937984704
+mas "AudioSwitcher", id: 561712678
 mas "Bear", id: 1091189122
 mas "Calca", id: 635758264
 mas "Charmstone", id: 1563735522
@@ -171,6 +195,7 @@ mas "Jigsaws Galore", id: 426250075
 mas "Keynote", id: 409183694
 mas "Kindle", id: 405399194
 mas "MacFamilyTree 10", id: 1567970985
+mas "Magic Battery", id: 1240063289
 mas "Meeter", id: 1510445899
 mas "Microsoft Excel", id: 462058435
 mas "Microsoft OneNote", id: 784801555
@@ -181,6 +206,7 @@ mas "MindNode", id: 1289197285
 mas "Minesweeper", id: 1475921958
 mas "Mini Motorways", id: 1456188526
 mas "Moom", id: 419330170
+mas "Next Meeting", id: 1017470484
 mas "Numbers", id: 409203825
 mas "Page Screenshot for Safari", id: 1472715727
 mas "Pages", id: 409201541
@@ -211,4 +237,4 @@ mas "Under My Roof", id: 1524335878
 mas "UPDF", id: 1619925971
 mas "Vimari", id: 1480933944
 mas "WireGuard", id: 1451685025
-mas "XMind", id: 1327661892
+mas "Xmind", id: 1327661892
