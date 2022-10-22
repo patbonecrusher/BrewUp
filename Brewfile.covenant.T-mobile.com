@@ -174,6 +174,7 @@ cask "steam"
 cask "swish"
 cask "tabby"
 cask "teamviewer"
+cask "tempbox"
 cask "the-unarchiver"
 cask "tunnelblick"
 cask "vagrant"
@@ -218,6 +219,7 @@ mas "Minesweeper", id: 1475921958
 mas "Mini Motorways", id: 1456188526
 mas "Moom", id: 419330170
 mas "Next Meeting", id: 1017470484
+mas "Notes SE", id: 1610634186
 mas "Numbers", id: 409203825
 mas "Page Screenshot for Safari", id: 1472715727
 mas "Pages", id: 409201541
@@ -226,6 +228,7 @@ mas "Pikka", id: 1195076754
 mas "Pixelmator Pro", id: 1289583905
 mas "PixelStick", id: 415158530
 mas "Prime Video", id: 545519333
+mas "Pure Paste", id: 1611378436
 mas "Quick Note", id: 1472935217
 mas "ReadKit", id: 588726889
 mas "Reeder", id: 1529448980
