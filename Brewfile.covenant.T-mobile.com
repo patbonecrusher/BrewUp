@@ -39,6 +39,7 @@ brew "exa"
 brew "fd"
 brew "fswatch"
 brew "fzf"
+brew "ghc"
 brew "git"
 brew "git-lfs"
 brew "glow"
@@ -47,6 +48,7 @@ brew "gping"
 brew "graphviz"
 brew "grep"
 brew "hdf5"
+brew "helix"
 brew "htop"
 brew "httrack"
 brew "hub"
@@ -90,6 +92,7 @@ brew "ydiff"
 brew "youtube-dl"
 brew "yt-dlp"
 brew "z"
+brew "zsh"
 brew "browsh-org/browsh/browsh"
 brew "koekeishiya/formulae/skhd"
 brew "koekeishiya/formulae/yabai"
@@ -103,6 +106,7 @@ cask "android-studio"
 cask "appcleaner"
 cask "bartender"
 cask "basecamp"
+cask "cakebrew"
 cask "cheatsheet"
 cask "cloudmounter"
 cask "daisydisk"
@@ -119,6 +123,7 @@ cask "fig"
 cask "finicky"
 cask "firefox"
 cask "font-cascadia-code"
+cask "fromscratch"
 cask "fsmonitor"
 cask "github"
 cask "gitter"
@@ -128,12 +133,14 @@ cask "grammarly"
 cask "hammerspoon"
 cask "hazeover"
 cask "hex-fiend"
+cask "hyper"
 cask "iina"
 cask "intellij-idea"
 cask "iterm2"
 cask "itsycal"
 cask "joplin"
 cask "kap"
+cask "kitty"
 cask "klogg"
 cask "latest"
 cask "logseq"
@@ -158,6 +165,7 @@ cask "qview"
 cask "raindropio"
 cask "raycast"
 cask "sigmaos"
+cask "silentknight"
 cask "soundsource"
 cask "speedcrunch"
 cask "staruml"
@@ -177,13 +185,16 @@ cask "wezterm"
 cask "xquartz"
 cask "yacreader"
 mas "1Password for Safari", id: 1569813296
+mas "Airmail", id: 918858936
 mas "Amphetamine", id: 937984704
 mas "AudioSwitcher", id: 561712678
 mas "Bear", id: 1091189122
 mas "Calca", id: 635758264
 mas "Charmstone", id: 1563735522
+mas "Dark Reader for Safari", id: 1438243180
 mas "Disk Speed Test", id: 425264550
 mas "EasyRes", id: 688211836
+mas "Email Snippets", id: 1439319487
 mas "GarageBand", id: 682658836
 mas "Harvest", id: 506189836
 mas "Home Inventory", id: 413564952
@@ -238,3 +249,4 @@ mas "UPDF", id: 1619925971
 mas "Vimari", id: 1480933944
 mas "WireGuard", id: 1451685025
 mas "Xmind", id: 1327661892
+mas "Zeroconf Browser", id: 1355001318
