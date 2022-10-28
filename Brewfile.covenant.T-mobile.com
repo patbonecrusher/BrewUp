@@ -147,6 +147,7 @@ cask "iterm2"
 cask "itsycal"
 cask "joplin"
 cask "kap"
+cask "karabiner-elements"
 cask "kitty"
 cask "klogg"
 cask "latest"
@@ -186,6 +187,7 @@ cask "the-unarchiver"
 cask "tunnelblick"
 cask "vagrant"
 cask "vagrant-manager"
+cask "vial"
 cask "visual-studio-code"
 cask "vlc"
 cask "vnc-viewer"
@@ -202,6 +204,7 @@ mas "Charmstone", id: 1563735522
 mas "Dark Reader for Safari", id: 1438243180
 mas "Disk Speed Test", id: 425264550
 mas "EasyRes", id: 688211836
+mas "Echoo", id: 1612383544
 mas "Email Snippets", id: 1439319487
 mas "GarageBand", id: 682658836
 mas "Harvest", id: 506189836
