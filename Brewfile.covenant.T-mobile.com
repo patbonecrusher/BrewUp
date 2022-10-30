@@ -1,5 +1,6 @@
 tap "armmbed/formulae"
 tap "browsh-org/browsh"
+tap "charmbracelet/tap"
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/cask-fonts"
@@ -38,6 +39,7 @@ brew "diskonaut"
 brew "doxygen"
 brew "exa"
 brew "fd"
+brew "ffmpeg"
 brew "fortune"
 brew "fswatch"
 brew "fzf"
@@ -88,6 +90,7 @@ brew "terminal-notifier"
 brew "the_silver_searcher"
 brew "thefuck"
 brew "tree"
+brew "ttyd", args: ["HEAD"]
 brew "vifm"
 brew "vips"
 brew "vitetris"
@@ -101,6 +104,7 @@ brew "yt-dlp"
 brew "z"
 brew "zsh"
 brew "browsh-org/browsh/browsh"
+brew "charmbracelet/tap/vhs", link: false
 brew "koekeishiya/formulae/skhd"
 brew "koekeishiya/formulae/yabai"
 brew "pulumi/tap/pulumi"
@@ -261,5 +265,6 @@ mas "Under My Roof", id: 1524335878
 mas "UPDF", id: 1619925971
 mas "Vimari", id: 1480933944
 mas "WireGuard", id: 1451685025
+mas "Xcode", id: 497799835
 mas "Xmind", id: 1327661892
 mas "Zeroconf Browser", id: 1355001318
