@@ -104,7 +104,7 @@ brew "yt-dlp"
 brew "z"
 brew "zsh"
 brew "browsh-org/browsh/browsh"
-brew "charmbracelet/tap/vhs", link: false
+brew "charmbracelet/tap/vhs"
 brew "koekeishiya/formulae/skhd"
 brew "koekeishiya/formulae/yabai"
 brew "pulumi/tap/pulumi"
@@ -265,6 +265,5 @@ mas "Under My Roof", id: 1524335878
 mas "UPDF", id: 1619925971
 mas "Vimari", id: 1480933944
 mas "WireGuard", id: 1451685025
-mas "Xcode", id: 497799835
 mas "Xmind", id: 1327661892
 mas "Zeroconf Browser", id: 1355001318
