@@ -214,6 +214,7 @@ mas "EasyRes", id: 688211836
 mas "Echoo", id: 1612383544
 mas "Email Snippets", id: 1439319487
 mas "GarageBand", id: 682658836
+mas "GoLog", id: 1567045405
 mas "Harvest", id: 506189836
 mas "Home Inventory", id: 413564952
 mas "iMovie", id: 408981434
