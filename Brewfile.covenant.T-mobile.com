@@ -206,6 +206,7 @@ mas "Airmail", id: 918858936
 mas "Amphetamine", id: 937984704
 mas "AudioSwitcher", id: 561712678
 mas "Bear", id: 1091189122
+mas "BeFit Tracker", id: 402924047
 mas "Calca", id: 635758264
 mas "Charmstone", id: 1563735522
 mas "Dark Reader for Safari", id: 1438243180
