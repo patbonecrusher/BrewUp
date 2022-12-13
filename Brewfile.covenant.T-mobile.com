@@ -11,15 +11,18 @@ tap "louisbrunner/valgrind"
 tap "pulumi/tap"
 tap "riscv-software-src/riscv"
 tap "romkatv/powerlevel10k"
+tap "samtay/tui"
 brew "python@3.10"
 brew "ansible"
 brew "argp-standalone"
+brew "asciiquarium"
 brew "aws-console"
 brew "awscli"
 brew "bat"
 brew "harfbuzz"
 brew "gobject-introspection"
 brew "binwalk"
+brew "blueutil"
 brew "bottom"
 brew "brew-gem"
 brew "broot"
@@ -27,6 +30,7 @@ brew "btop"
 brew "calcurse"
 brew "cmake"
 brew "cmake-docs"
+brew "cmatrix"
 brew "unbound"
 brew "gnutls"
 brew "libusb"
@@ -90,11 +94,13 @@ brew "qt"
 brew "ranger"
 brew "rlwrap"
 brew "shfmt"
+brew "speedtest-cli"
 brew "starship"
 brew "telnet"
 brew "terminal-notifier"
 brew "the_silver_searcher"
 brew "thefuck"
+brew "toilet"
 brew "tree"
 brew "trunk"
 brew "ttyd", args: ["HEAD"]
@@ -102,6 +108,7 @@ brew "vifm"
 brew "vips"
 brew "vitetris"
 brew "w3m"
+brew "watson"
 brew "wget"
 brew "wireguard-tools"
 brew "xauth"
@@ -118,12 +125,14 @@ brew "pulumi/tap/pulumi"
 brew "riscv-software-src/riscv/riscv-gnu-toolchain", args: ["with-NOmultilib"]
 brew "riscv-software-src/riscv/riscv-tools"
 brew "romkatv/powerlevel10k/powerlevel10k"
+brew "samtay/tui/tetris", link: false
 cask "alt-tab"
 cask "android-platform-tools"
 cask "android-studio"
 cask "appcleaner"
 cask "bartender"
 cask "basecamp"
+cask "battery"
 cask "cakebrew"
 cask "cheatsheet"
 cask "cloudmounter"
@@ -141,6 +150,7 @@ cask "eul"
 cask "fig"
 cask "finicky"
 cask "firefox"
+cask "flameshot"
 cask "font-cascadia-code"
 cask "fromscratch"
 cask "fsmonitor"
@@ -172,6 +182,7 @@ cask "meld"
 cask "microsoft-teams"
 cask "min"
 cask "monitorcontrol"
+cask "netnewswire"
 cask "ngrok"
 cask "numi"
 cask "obsidian"
@@ -210,12 +221,14 @@ cask "warp"
 cask "wezterm"
 cask "xquartz"
 cask "yacreader"
+cask "zettlr"
 mas "1Password for Safari", id: 1569813296
 mas "Airmail", id: 918858936
 mas "Amphetamine", id: 937984704
 mas "AudioSwitcher", id: 561712678
 mas "Bear", id: 1091189122
 mas "BeFit Tracker", id: 402924047
+mas "Binaural", id: 946812450
 mas "Calca", id: 635758264
 mas "Charmstone", id: 1563735522
 mas "Dark Reader for Safari", id: 1438243180
@@ -247,7 +260,6 @@ mas "Minesweeper", id: 1475921958
 mas "Mini Motorways", id: 1456188526
 mas "Moom", id: 419330170
 mas "Next Meeting", id: 1017470484
-mas "Notes SE", id: 1610634186
 mas "Numbers", id: 409203825
 mas "Page Screenshot for Safari", id: 1472715727
 mas "Pages", id: 409201541
@@ -262,13 +274,17 @@ mas "ReadKit", id: 588726889
 mas "Reeder", id: 1529448980
 mas "Rsyncinator", id: 1569680330
 mas "Save to Raindrop.io", id: 1549370672
+mas "ScanTexter", id: 1635954549
 mas "Scapple", id: 568020055
 mas "SerialTools", id: 611021963
 mas "Sigma Planner", id: 1106938042
+mas "Singlebox", id: 1551183766
 mas "Slack", id: 803453959
 mas "SnippetsLab", id: 1006087419
 mas "Spark", id: 1176895641
 mas "Steam Link", id: 1246969117
+mas "Sticklets", id: 1633701470
+mas "Sticky", id: 1610634186
 mas "Tabs to Links", id: 1451408472
 mas "Things", id: 904280696
 mas "Tot", id: 1491071483
