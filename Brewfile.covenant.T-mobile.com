@@ -163,6 +163,7 @@ cask "hammerspoon"
 cask "hazeover"
 cask "hex-fiend"
 cask "hyper"
+cask "hyperkey"
 cask "iina"
 cask "intellij-idea"
 cask "iterm2"
@@ -198,6 +199,7 @@ cask "qview"
 cask "raindropio"
 cask "rar"
 cask "raycast"
+cask "rectangle"
 cask "sigmaos"
 cask "silentknight"
 cask "soundsource"
@@ -280,6 +282,7 @@ mas "SerialTools", id: 611021963
 mas "Sigma Planner", id: 1106938042
 mas "Singlebox", id: 1551183766
 mas "Slack", id: 803453959
+mas "Smart JSON Editor", id: 1268962404
 mas "SnippetsLab", id: 1006087419
 mas "Spark", id: 1176895641
 mas "Steam Link", id: 1246969117
