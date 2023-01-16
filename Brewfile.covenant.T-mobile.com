@@ -242,6 +242,7 @@ mas "Email Snippets", id: 1439319487
 mas "GarageBand", id: 682658836
 mas "GoLog", id: 1567045405
 mas "Harvest", id: 506189836
+mas "Hi Sticky", id: 1610634186
 mas "Home Inventory", id: 413564952
 mas "iMovie", id: 408981434
 mas "Infinity New Tab (Pro)", id: 1600202109
@@ -288,7 +289,6 @@ mas "SnippetsLab", id: 1006087419
 mas "Spark", id: 1176895641
 mas "Steam Link", id: 1246969117
 mas "Sticklets", id: 1633701470
-mas "Sticky", id: 1610634186
 mas "Tabs to Links", id: 1451408472
 mas "Things", id: 904280696
 mas "Tot", id: 1491071483
