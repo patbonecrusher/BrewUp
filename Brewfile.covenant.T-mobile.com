@@ -152,6 +152,7 @@ cask "battery"
 cask "cakebrew"
 cask "cheatsheet"
 cask "cloudmounter"
+cask "commander-one"
 cask "copyq"
 cask "daisydisk"
 cask "dash"
@@ -314,6 +315,7 @@ mas "Spark", id: 1176895641
 mas "Steam Link", id: 1246969117
 mas "Sticklets", id: 1633701470
 mas "Tabs to Links", id: 1451408472
+mas "TestFlight", id: 899247664
 mas "Things", id: 904280696
 mas "Tot", id: 1491071483
 mas "Traditional Minesweeper", id: 1604197815
