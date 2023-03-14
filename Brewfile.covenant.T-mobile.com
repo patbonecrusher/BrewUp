@@ -13,6 +13,7 @@ tap "pulumi/tap"
 tap "riscv-software-src/riscv"
 tap "romkatv/powerlevel10k"
 tap "samtay/tui"
+tap "stateful/tap"
 brew "ansible"
 brew "jq"
 brew "ansiweather"
@@ -106,6 +107,7 @@ brew "procs"
 brew "qt"
 brew "ranger"
 brew "restic"
+brew "rich-cli"
 brew "rlwrap"
 brew "shfmt"
 brew "speedtest-cli"
@@ -115,6 +117,7 @@ brew "telnet"
 brew "terminal-notifier"
 brew "the_silver_searcher"
 brew "thefuck"
+brew "tmux"
 brew "toilet"
 brew "transmission-cli"
 brew "tree"
@@ -143,6 +146,7 @@ brew "riscv-software-src/riscv/riscv-gnu-toolchain", args: ["with-NOmultilib"]
 brew "riscv-software-src/riscv/riscv-tools"
 brew "romkatv/powerlevel10k/powerlevel10k"
 brew "samtay/tui/tetris", link: false
+brew "stateful/tap/stateful"
 cask "alt-tab"
 cask "android-platform-tools"
 cask "android-studio"
@@ -224,6 +228,7 @@ cask "raindropio"
 cask "rar"
 cask "raycast"
 cask "rectangle"
+cask "shottr"
 cask "sigmaos"
 cask "silentknight"
 cask "soundsource"
@@ -256,6 +261,7 @@ mas "AudioSwitcher", id: 561712678
 mas "Bear", id: 1091189122
 mas "BeFit Tracker", id: 402924047
 mas "Binaural", id: 946812450
+mas "Brain3k", id: 1587505104
 mas "Calca", id: 635758264
 mas "Charmstone", id: 1563735522
 mas "Dark Reader for Safari", id: 1438243180
@@ -266,14 +272,17 @@ mas "Email Snippets", id: 1439319487
 mas "Flippy", id: 1522268839
 mas "GarageBand", id: 682658836
 mas "GoLog", id: 1567045405
+mas "Ground Zero", id: 1471914168
 mas "Harvest", id: 506189836
 mas "Hi Sticky", id: 1610634186
 mas "Home Inventory", id: 413564952
 mas "iMovie", id: 408981434
 mas "Infinity New Tab (Pro)", id: 1600202109
+mas "Infos", id: 1624903546
 mas "Install OS X Mavericks", id: 675248567
 mas "Irvue", id: 1039633667
 mas "Jigsaws Galore", id: 426250075
+mas "Keka", id: 470158793
 mas "Keynote", id: 409183694
 mas "Kindle", id: 405399194
 mas "MacFamilyTree 10", id: 1567970985
@@ -292,6 +301,7 @@ mas "Moom", id: 419330170
 mas "Next Meeting", id: 1017470484
 mas "Night Sky", id: 475772902
 mas "Numbers", id: 409203825
+mas "Ooooo", id: 1482773008
 mas "Page Screenshot for Safari", id: 1472715727
 mas "Pages", id: 409201541
 mas "Paste", id: 967805235
