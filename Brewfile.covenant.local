@@ -273,6 +273,7 @@ mas "Brain3k", id: 1587505104
 mas "Calca", id: 635758264
 mas "Canary Mail", id: 1236045954
 mas "Charmstone", id: 1563735522
+mas "Cleaner for Xcode", id: 1296084683
 mas "Dark Reader for Safari", id: 1438243180
 mas "Disk Speed Test", id: 425264550
 mas "EasyRes", id: 688211836
@@ -317,8 +318,10 @@ mas "Paste", id: 967805235
 mas "Pikka", id: 1195076754
 mas "Pixelmator Pro", id: 1289583905
 mas "PixelStick", id: 415158530
+mas "Playgrounds", id: 1496833156
 mas "Prime Video", id: 545519333
 mas "Pure Paste", id: 1611378436
+mas "Python Recipes", id: 1180825853
 mas "Quick Note", id: 1472935217
 mas "ReadKit", id: 588726889
 mas "Reeder", id: 1529448980
@@ -346,5 +349,6 @@ mas "Under My Roof", id: 1524335878
 mas "UPDF", id: 1619925971
 mas "Vimari", id: 1480933944
 mas "WireGuard", id: 1451685025
+mas "Xcode", id: 497799835
 mas "Xmind", id: 1327661892
 mas "Zeroconf Browser", id: 1355001318
