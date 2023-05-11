@@ -77,8 +77,11 @@ brew "highlight"
 brew "htop"
 brew "httrack"
 brew "hub"
+brew "libheif"
 brew "imagemagick"
+brew "imlib2"
 brew "ipcalc"
+brew "jrnl"
 brew "lazygit"
 brew "libcaca"
 brew "libftdi"
@@ -89,8 +92,8 @@ brew "lynx"
 brew "make"
 brew "mas"
 brew "media-info"
-brew "python@3.10"
 brew "mkdocs"
+brew "mosh"
 brew "mtr"
 brew "myman"
 brew "navi"
@@ -109,6 +112,7 @@ brew "pdm"
 brew "pfetch"
 brew "poppler"
 brew "procs"
+brew "python@3.10"
 brew "qt"
 brew "ranger"
 brew "restic"
@@ -117,6 +121,7 @@ brew "rlwrap"
 brew "shfmt"
 brew "speedtest-cli"
 brew "starship"
+brew "stlink"
 brew "subversion"
 brew "telnet"
 brew "terminal-notifier"
@@ -310,6 +315,7 @@ mas "Mini Motorways", id: 1456188526
 mas "Moom", id: 419330170
 mas "Next Meeting", id: 1017470484
 mas "Night Sky", id: 475772902
+mas "NotePlan", id: 1505432629
 mas "Numbers", id: 409203825
 mas "Ooooo", id: 1482773008
 mas "Page Screenshot for Safari", id: 1472715727
@@ -350,4 +356,5 @@ mas "Vimari", id: 1480933944
 mas "WireGuard", id: 1451685025
 mas "Xcode", id: 497799835
 mas "Xmind", id: 1327661892
+mas "Yoink", id: 457622435
 mas "Zeroconf Browser", id: 1355001318
