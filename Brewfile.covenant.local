@@ -29,6 +29,7 @@ brew "atool"
 brew "atuin"
 brew "aws-console"
 brew "awscli"
+brew "bartib"
 brew "bat"
 brew "pillow"
 brew "binwalk"
@@ -84,7 +85,9 @@ brew "gotop"
 brew "gping"
 brew "graphviz"
 brew "grep"
+brew "gsoap"
 brew "gtop"
+brew "gum"
 brew "haskell-stack"
 brew "hdf5"
 brew "helix"
@@ -152,6 +155,7 @@ brew "toilet"
 brew "transmission-cli"
 brew "tree"
 brew "trunk"
+brew "tty-clock"
 brew "ttyd"
 brew "uuu"
 brew "vifm"
@@ -163,6 +167,7 @@ brew "wget"
 brew "wireguard-tools"
 brew "wtf"
 brew "xauth"
+brew "xtitle"
 brew "ydiff"
 brew "yt-dlp"
 brew "z"
@@ -295,6 +300,7 @@ cask "zettlr"
 mas "1Password for Safari", id: 1569813296
 mas "Airmail", id: 918858936
 mas "Amphetamine", id: 937984704
+mas "ApolloOne", id: 1044484672
 mas "AudioSwitcher", id: 561712678
 mas "Bear", id: 1091189122
 mas "BeFit Tracker", id: 402924047
@@ -353,6 +359,7 @@ mas "Pixelmator Pro", id: 1289583905
 mas "PixelStick", id: 415158530
 mas "Playgrounds", id: 1496833156
 mas "Prime Video", id: 545519333
+mas "Privacy.com for Safari", id: 6449850851
 mas "Pure Paste", id: 1611378436
 mas "Python Recipes", id: 1180825853
 mas "Quick Note", id: 1472935217
@@ -410,7 +417,6 @@ vscode "bierner.markdown-mermaid"
 vscode "bierner.markdown-preview-github-styles"
 vscode "bpruitt-goddard.mermaid-markdown-syntax-highlighting"
 vscode "bradlc.vscode-tailwindcss"
-vscode "bungcip.better-toml"
 vscode "canna.figlet"
 vscode "Centuplex.quokka"
 vscode "codezombiech.gitignore"
@@ -540,6 +546,7 @@ vscode "stateful.runme"
 vscode "stateful.stable"
 vscode "statelyai.stately-vscode"
 vscode "Swellaby.vscode-rust-test-adapter"
+vscode "tamasfe.even-better-toml"
 vscode "tauri-apps.tauri-vscode"
 vscode "teabyii.ayu"
 vscode "telesoho.vscode-markdown-paste-image"
