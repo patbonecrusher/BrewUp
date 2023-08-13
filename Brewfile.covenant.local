@@ -139,6 +139,7 @@ brew "ranger"
 brew "restic"
 brew "rich-cli"
 brew "rlwrap"
+brew "rsync"
 brew "shfmt"
 brew "speedtest-cli"
 brew "starship"
@@ -193,6 +194,7 @@ cask "arc"
 cask "bartender"
 cask "basecamp"
 cask "battery"
+cask "caffeine"
 cask "cakebrew"
 cask "cheatsheet"
 cask "cloudmounter"
@@ -377,6 +379,7 @@ mas "Slack", id: 803453959
 mas "Smart JSON Editor", id: 1268962404
 mas "SnippetsLab", id: 1006087419
 mas "Spark", id: 1176895641
+mas "Speedtest", id: 1153157709
 mas "Steam Link", id: 1246969117
 mas "Sticklets", id: 1633701470
 mas "Tabs to Links", id: 1451408472
