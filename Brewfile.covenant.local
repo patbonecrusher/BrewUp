@@ -2,6 +2,7 @@ tap "armmbed/formulae"
 tap "browsh-org/browsh"
 tap "charmbracelet/tap"
 tap "eddieantonio/eddieantonio"
+tap "espanso/espanso"
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/cask-fonts"
@@ -213,6 +214,7 @@ cask "diskmaker-x"
 cask "docker"
 cask "drawio"
 cask "edex-ui"
+cask "espanso"
 cask "eul"
 cask "fig"
 cask "finicky"
@@ -315,6 +317,7 @@ mas "Calca", id: 635758264
 mas "Canary Mail", id: 1236045954
 mas "Charmstone", id: 1563735522
 mas "Cleaner for Xcode", id: 1296084683
+mas "Color Picker", id: 1545870783
 mas "Dark Reader for Safari", id: 1438243180
 mas "Disk Speed Test", id: 425264550
 mas "EasyRes", id: 688211836
@@ -381,6 +384,7 @@ mas "Singlebox", id: 1551183766
 mas "Slack", id: 803453959
 mas "Smart JSON Editor", id: 1268962404
 mas "SnippetsLab", id: 1006087419
+mas "SonicWall Mobile Connect", id: 822514576
 mas "Spark", id: 1176895641
 mas "Speedtest", id: 1153157709
 mas "Steam Link", id: 1246969117
@@ -452,6 +456,7 @@ vscode "fabiospampinato.vscode-todo-plus"
 vscode "figstack.vsc"
 vscode "file-icons.file-icons"
 vscode "GitHub.copilot"
+vscode "GitHub.copilot-chat"
 vscode "GitHub.github-vscode-theme"
 vscode "goessner.mdmath"
 vscode "Gruntfuggly.todo-tree"
@@ -573,6 +578,7 @@ vscode "vadimcn.vscode-lldb"
 vscode "VisualStudioExptTeam.intellicode-api-usage-examples"
 vscode "VisualStudioExptTeam.vscodeintellicode"
 vscode "vscode-icons-team.vscode-icons"
+vscode "vsls-contrib.codetour"
 vscode "vstirbu.vscode-mermaid-preview"
 vscode "WakaTime.vscode-wakatime"
 vscode "WallabyJs.console-ninja"
