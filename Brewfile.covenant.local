@@ -82,6 +82,7 @@ brew "git-delta"
 brew "git-lfs"
 brew "glow"
 brew "gobject-introspection"
+brew "googletest"
 brew "gotop"
 brew "gping"
 brew "graphviz"
@@ -305,7 +306,6 @@ cask "xquartz"
 cask "yacreader"
 cask "zettlr"
 mas "1Password for Safari", id: 1569813296
-mas "Airmail", id: 918858936
 mas "Amphetamine", id: 937984704
 mas "ApolloOne", id: 1044484672
 mas "AudioSwitcher", id: 561712678
@@ -314,7 +314,6 @@ mas "BeFit Tracker", id: 402924047
 mas "Binaural", id: 946812450
 mas "Brain3k", id: 1587505104
 mas "Calca", id: 635758264
-mas "Canary Mail", id: 1236045954
 mas "Charmstone", id: 1563735522
 mas "Cleaner for Xcode", id: 1296084683
 mas "Color Picker", id: 1545870783
@@ -326,6 +325,7 @@ mas "Email Snippets", id: 1439319487
 mas "Flippy", id: 1522268839
 mas "GarageBand", id: 682658836
 mas "GoLog", id: 1567045405
+mas "Grammarly for Safari", id: 1462114288
 mas "Ground Zero", id: 1471914168
 mas "Harvest", id: 506189836
 mas "Hi Sticky", id: 1610634186
@@ -385,7 +385,6 @@ mas "Slack", id: 803453959
 mas "Smart JSON Editor", id: 1268962404
 mas "SnippetsLab", id: 1006087419
 mas "SonicWall Mobile Connect", id: 822514576
-mas "Spark", id: 1176895641
 mas "Speedtest", id: 1153157709
 mas "Steam Link", id: 1246969117
 mas "Sticklets", id: 1633701470
@@ -420,6 +419,7 @@ vscode "bat67.markdown-extension-pack"
 vscode "bbenoist.vagrant"
 vscode "bdavs.expect"
 vscode "be5invis.vscode-icontheme-nomo-dark"
+vscode "benjaminbenais.copilot-theme"
 vscode "bierner.emojisense"
 vscode "bierner.markdown-checkbox"
 vscode "bierner.markdown-emoji"
@@ -539,6 +539,8 @@ vscode "plorefice.devicetree"
 vscode "pnp.polacode"
 vscode "puorc.awesome-vhdl"
 vscode "qwtel.sqlite-viewer"
+vscode "RapidAPI.vscode-rapidapi-client"
+vscode "rapidapi.vscode-services"
 vscode "redhat.vscode-yaml"
 vscode "Remisa.shellman"
 vscode "roelvanegmond.xill-language"
