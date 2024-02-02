@@ -376,6 +376,7 @@ mas "Microsoft Outlook", id: 985367838
 mas "Microsoft PowerPoint", id: 462062816
 mas "Microsoft Remote Desktop", id: 1295203466
 mas "Microsoft Word", id: 462054704
+mas "Mimeo Photos", id: 1282504627
 mas "MindNode", id: 1289197285
 mas "Minesweeper", id: 1475921958
 mas "Mini Motorways", id: 1456188526
@@ -614,6 +615,7 @@ vscode "twxs.cmake"
 vscode "vadimcn.vscode-lldb"
 vscode "VisualStudioExptTeam.intellicode-api-usage-examples"
 vscode "VisualStudioExptTeam.vscodeintellicode"
+vscode "vitaliymaz.vscode-svg-previewer"
 vscode "vscode-icons-team.vscode-icons"
 vscode "vsls-contrib.codetour"
 vscode "vstirbu.vscode-mermaid-preview"
