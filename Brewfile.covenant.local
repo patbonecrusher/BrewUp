@@ -323,6 +323,7 @@ cask "the-unarchiver"
 cask "tigervnc-viewer"
 cask "tiled"
 cask "tunnelblick"
+cask "utm"
 cask "vagrant"
 cask "vagrant-manager"
 cask "vial"
@@ -425,6 +426,7 @@ mas "Slack", id: 803453959
 mas "Smart Countdown Timer", id: 1410709951
 mas "Smart JSON Editor", id: 1268962404
 mas "SnippetsLab", id: 1006087419
+mas "Solitaire Epic", id: 972224785
 mas "SonicWall Mobile Connect", id: 822514576
 mas "Speedtest", id: 1153157709
 mas "Steam Link", id: 1246969117
@@ -617,6 +619,7 @@ vscode "spmeesseman.vscode-taskexplorer"
 vscode "stateful.runme"
 vscode "statelyai.stately-vscode"
 vscode "swellaby.vscode-rust-test-adapter"
+vscode "swyddfa.esbonio"
 vscode "tamasfe.even-better-toml"
 vscode "tauri-apps.tauri-vscode"
 vscode "teabyii.ayu"
@@ -629,6 +632,7 @@ vscode "tomoki1207.pdf"
 vscode "tomoyukim.vscode-mermaid-editor"
 vscode "triaxis.cortex-debug-dp-efm32gg11b"
 vscode "trond-snekvik.gnu-mapfiles"
+vscode "trond-snekvik.simple-rst"
 vscode "trunk.io"
 vscode "tshino.kb-macro"
 vscode "twxs.cmake"
