@@ -22,10 +22,12 @@ tap "stateful/tap"
 tap "zegervdv/zathura"
 brew "zstd"
 brew "harfbuzz"
+brew "librsvg"
 brew "aichat"
 brew "ansible"
 brew "jq"
 brew "ansiweather"
+brew "jpeg-xl"
 brew "archiver"
 brew "argp-standalone"
 brew "arm-linux-gnueabihf-binutils"
@@ -54,6 +56,7 @@ brew "unbound"
 brew "gnutls"
 brew "libusb"
 brew "qemu"
+brew "lima"
 brew "colima"
 brew "coreutils"
 brew "countdown"
@@ -93,6 +96,8 @@ brew "git-extras"
 brew "git-filter-repo"
 brew "git-lfs"
 brew "glow"
+brew "gnupg"
+brew "pkg-config"
 brew "gobject-introspection"
 brew "googletest"
 brew "gotop"
@@ -153,6 +158,7 @@ brew "pnpm"
 brew "poppler"
 brew "powerlevel10k"
 brew "procs"
+brew "putty"
 brew "python@3.10"
 brew "qt"
 brew "ranger"
@@ -306,6 +312,7 @@ cask "raindropio"
 cask "rar"
 cask "raycast"
 cask "rectangle"
+cask "secretive"
 cask "shottr"
 cask "sigmaos"
 cask "silentknight"
@@ -336,6 +343,7 @@ cask "warp"
 cask "wezterm"
 cask "xquartz"
 cask "yacreader"
+cask "zed"
 cask "zerotier-one"
 cask "zettlr"
 mas "1Password for Safari", id: 1569813296
@@ -357,6 +365,7 @@ mas "Cubox for Safari", id: 1550721541
 mas "Dark Reader for Safari", id: 1438243180
 mas "Discovery", id: 1381004916
 mas "Disk Speed Test", id: 425264550
+mas "Dropover", id: 1355679052
 mas "EasyRes", id: 688211836
 mas "Echoo", id: 1612383544
 mas "Email Snippets", id: 1439319487
@@ -404,6 +413,7 @@ mas "Ooooo", id: 1482773008
 mas "Page Screenshot for Safari", id: 1472715727
 mas "Pages", id: 409201541
 mas "Paste", id: 967805235
+mas "Pasty", id: 1544620654
 mas "PicWish", id: 1609584814
 mas "Pikka", id: 1195076754
 mas "Pixelmator Pro", id: 1289583905
@@ -534,7 +544,6 @@ vscode "kenny.lightcodeios"
 vscode "keroc.hex-fmt"
 vscode "kevinrose.vsc-python-indent"
 vscode "kruemelkatze.vscode-dashboard"
-vscode "lextudio.restructuredtext"
 vscode "littlefoxteam.vscode-python-test-adapter"
 vscode "maptz.regionfolder"
 vscode "marus25.cortex-debug"
@@ -634,7 +643,6 @@ vscode "tomoki1207.pdf"
 vscode "tomoyukim.vscode-mermaid-editor"
 vscode "triaxis.cortex-debug-dp-efm32gg11b"
 vscode "trond-snekvik.gnu-mapfiles"
-vscode "trond-snekvik.simple-rst"
 vscode "trunk.io"
 vscode "tshino.kb-macro"
 vscode "twxs.cmake"
