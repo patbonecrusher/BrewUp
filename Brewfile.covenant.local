@@ -19,6 +19,7 @@ tap "riscv-software-src/riscv"
 tap "romkatv/powerlevel10k"
 tap "samtay/tui"
 tap "stateful/tap"
+tap "tabbyml/tabby"
 tap "zegervdv/zathura"
 brew "zstd"
 brew "harfbuzz"
@@ -114,6 +115,7 @@ brew "helix"
 brew "hey"
 brew "highlight"
 brew "htop"
+brew "httpie"
 brew "httrack"
 brew "hub"
 brew "hyperfine"
@@ -121,7 +123,9 @@ brew "libheif"
 brew "imagemagick"
 brew "imlib2"
 brew "ipcalc"
+brew "joshuto"
 brew "jrnl"
+brew "lazydocker"
 brew "lazygit"
 brew "libcaca"
 brew "libftdi"
@@ -202,6 +206,7 @@ brew "ydiff"
 brew "yt-dlp"
 brew "z"
 brew "zellij"
+brew "zoxide"
 brew "zsh"
 brew "browsh-org/browsh/browsh"
 brew "charmbracelet/tap/vhs"
@@ -215,6 +220,7 @@ brew "riscv-software-src/riscv/riscv-gnu-toolchain", args: ["with-NOmultilib"]
 brew "riscv-software-src/riscv/riscv-tools"
 brew "samtay/tui/tetris"
 brew "stateful/tap/stateful"
+brew "tabbyml/tabby/tabby", link: false
 brew "zegervdv/zathura/girara", args: ["HEAD"]
 brew "zegervdv/zathura/zathura", args: ["HEAD"]
 brew "zegervdv/zathura/zathura-pdf-mupdf"
@@ -298,6 +304,7 @@ cask "numi"
 cask "obsidian"
 cask "openemu"
 cask "openvpn-connect"
+cask "orbstack"
 cask "packetsender"
 cask "paintcode"
 cask "paletro"
@@ -322,6 +329,7 @@ cask "sqlitestudio"
 cask "staruml"
 cask "stats"
 cask "steam"
+cask "surge"
 cask "swish"
 cask "tabby"
 cask "teamviewer"
@@ -419,6 +427,8 @@ mas "Pikka", id: 1195076754
 mas "Pixelmator Pro", id: 1289583905
 mas "PixelStick", id: 415158530
 mas "Playgrounds", id: 1496833156
+mas "Pomy 2", id: 6479742530
+mas "Pomy 2 Lite", id: 1422640635
 mas "Prime Video", id: 545519333
 mas "Privacy.com for Safari", id: 6449850851
 mas "Pure Paste", id: 1611378436
@@ -446,6 +456,7 @@ mas "Sticklets", id: 1633701470
 mas "Tabs to Links", id: 1451408472
 mas "TestFlight", id: 899247664
 mas "TextGrabber", id: 6451423640
+mas "TextShot", id: 6444068061
 mas "Things", id: 904280696
 mas "Tot", id: 1491071483
 mas "Transloader", id: 572281534
@@ -631,6 +642,7 @@ vscode "stateful.runme"
 vscode "statelyai.stately-vscode"
 vscode "swellaby.vscode-rust-test-adapter"
 vscode "swyddfa.esbonio"
+vscode "tabbyml.vscode-tabby"
 vscode "tamasfe.even-better-toml"
 vscode "tauri-apps.tauri-vscode"
 vscode "teabyii.ayu"
