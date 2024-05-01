@@ -48,6 +48,7 @@ brew "brew-gem"
 brew "broot"
 brew "btop"
 brew "calcurse"
+brew "cfn-lint"
 brew "chafa"
 brew "cheat"
 brew "cmake"
@@ -153,6 +154,7 @@ brew "nmap"
 brew "nnn"
 brew "nudoku"
 brew "nushell"
+brew "ollama"
 brew "onefetch"
 brew "openvpn"
 brew "pcalc"
@@ -169,6 +171,7 @@ brew "ranger"
 brew "restic"
 brew "rich-cli"
 brew "rlwrap"
+brew "rm-improved"
 brew "rsync"
 brew "shfmt"
 brew "snapcraft"
@@ -220,7 +223,7 @@ brew "riscv-software-src/riscv/riscv-gnu-toolchain", args: ["with-NOmultilib"]
 brew "riscv-software-src/riscv/riscv-tools"
 brew "samtay/tui/tetris"
 brew "stateful/tap/stateful"
-brew "tabbyml/tabby/tabby", link: false
+brew "tabbyml/tabby/tabby"
 brew "zegervdv/zathura/girara", args: ["HEAD"]
 brew "zegervdv/zathura/zathura", args: ["HEAD"]
 brew "zegervdv/zathura/zathura-pdf-mupdf"
@@ -232,6 +235,7 @@ cask "arc"
 cask "bartender"
 cask "basecamp"
 cask "bluestacks"
+cask "bruno"
 cask "caffeine"
 cask "cakebrew"
 cask "capacities"
@@ -244,6 +248,7 @@ cask "daisydisk"
 cask "dash"
 cask "db-browser-for-sqlite"
 cask "debookee"
+cask "devtoys"
 cask "diffmerge"
 cask "digital"
 cask "discord"
@@ -397,6 +402,7 @@ mas "Keka", id: 470158793
 mas "Keynote", id: 409183694
 mas "Kindle", id: 302584613
 mas "Kindle Classic", id: 405399194
+mas "Maccy", id: 1527619437
 mas "MacFamilyTree 10", id: 1567970985
 mas "Magic Battery", id: 1240063289
 mas "Meeter", id: 1510445899
@@ -426,6 +432,7 @@ mas "PicWish", id: 1609584814
 mas "Pikka", id: 1195076754
 mas "Pixelmator Pro", id: 1289583905
 mas "PixelStick", id: 415158530
+mas "Plain Text Editor", id: 1572202501
 mas "Playgrounds", id: 1496833156
 mas "Pomy 2", id: 6479742530
 mas "Pomy 2 Lite", id: 1422640635
@@ -479,6 +486,7 @@ vscode "alefragnani.bookmarks"
 vscode "alefragnani.project-manager"
 vscode "almenon.arepl"
 vscode "amazonwebservices.aws-toolkit-vscode"
+vscode "amazonwebservices.codewhisperer-for-command-line-companion"
 vscode "antfu.browse-lite"
 vscode "antfu.vite"
 vscode "arcticicestudio.nord-visual-studio-code"
@@ -674,7 +682,6 @@ vscode "whizkydee.material-palenight-theme"
 vscode "wholroyd.jinja"
 vscode "william-murray.6502asm-syntax-highlighting"
 vscode "william-voyek.vscode-nginx"
-vscode "withfig.fig"
 vscode "ya-technologies.vslabx-extension"
 vscode "yatki.vscode-surround"
 vscode "yinfei.luahelper"
