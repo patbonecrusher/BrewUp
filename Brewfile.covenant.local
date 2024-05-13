@@ -223,7 +223,7 @@ brew "riscv-software-src/riscv/riscv-gnu-toolchain", args: ["with-NOmultilib"]
 brew "riscv-software-src/riscv/riscv-tools"
 brew "samtay/tui/tetris"
 brew "stateful/tap/stateful"
-brew "tabbyml/tabby/tabby"
+brew "tabbyml/tabby/tabby", link: false
 brew "zegervdv/zathura/girara", args: ["HEAD"]
 brew "zegervdv/zathura/zathura", args: ["HEAD"]
 brew "zegervdv/zathura/zathura-pdf-mupdf"
@@ -530,6 +530,7 @@ vscode "eamodio.gitlens"
 vscode "editorconfig.editorconfig"
 vscode "eliverlara.andromeda"
 vscode "emmanuelbeziat.vscode-great-icons"
+vscode "equinusocio.vsc-material-theme"
 vscode "equinusocio.vsc-material-theme-icons"
 vscode "esbenp.prettier-vscode"
 vscode "fabiospampinato.vscode-todo-plus"
