@@ -147,6 +147,7 @@ brew "myman"
 brew "navi"
 brew "ncdu"
 brew "neofetch"
+brew "neovim"
 brew "netcat"
 brew "newt"
 brew "nginx", restart_service: true
@@ -232,6 +233,7 @@ cask "alt-tab"
 cask "android-platform-tools"
 cask "android-studio"
 cask "arc"
+cask "barrier"
 cask "bartender"
 cask "basecamp"
 cask "bluestacks"
@@ -368,6 +370,7 @@ mas "Bear", id: 1091189122
 mas "BeFit Tracker", id: 402924047
 mas "Binaural", id: 946812450
 mas "Brain3k", id: 1587505104
+mas "Caffeinated", id: 1362171212
 mas "Calca", id: 635758264
 mas "Charmstone", id: 1563735522
 mas "Cleaner for Xcode", id: 1296084683
@@ -649,6 +652,7 @@ vscode "simonsiefke.svg-preview"
 vscode "spmeesseman.vscode-taskexplorer"
 vscode "stateful.runme"
 vscode "statelyai.stately-vscode"
+vscode "svelte.svelte-vscode"
 vscode "swellaby.vscode-rust-test-adapter"
 vscode "swyddfa.esbonio"
 vscode "tabbyml.vscode-tabby"
