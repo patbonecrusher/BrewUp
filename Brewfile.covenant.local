@@ -63,6 +63,7 @@ brew "colima"
 brew "coreutils"
 brew "countdown"
 brew "cowsay"
+brew "cpufetch"
 brew "curl"
 brew "daktilo"
 brew "dfu-util"
@@ -77,6 +78,7 @@ brew "eva"
 brew "exercism"
 brew "exiftool"
 brew "eza"
+brew "fastfetch"
 brew "fclones"
 brew "fd"
 brew "sdl2"
@@ -135,6 +137,7 @@ brew "llvm"
 brew "lnav"
 brew "lolcat"
 brew "lynx"
+brew "macchina"
 brew "make"
 brew "mas"
 brew "mdcat"
@@ -330,6 +333,7 @@ cask "secretive"
 cask "shottr"
 cask "sigmaos"
 cask "silentknight"
+cask "slack"
 cask "soundsource"
 cask "speedcrunch"
 cask "sqlitestudio"
@@ -397,7 +401,7 @@ mas "Hidden Bar", id: 1452453066
 mas "Home Inventory", id: 413564952
 mas "iMovie", id: 408981434
 mas "Infinity New Tab (Pro)", id: 1600202109
-mas "Infos", id: 1624903546
+mas "Infoplane", id: 1624903546
 mas "Install OS X Mavericks", id: 675248567
 mas "Irvue", id: 1039633667
 mas "Jigsaws Galore", id: 426250075
@@ -438,7 +442,6 @@ mas "PixelStick", id: 415158530
 mas "Plain Text Editor", id: 1572202501
 mas "Playgrounds", id: 1496833156
 mas "Pomy 2", id: 6479742530
-mas "Pomy 2 Lite", id: 1422640635
 mas "Prime Video", id: 545519333
 mas "Privacy.com for Safari", id: 6449850851
 mas "Pure Paste", id: 1611378436
@@ -454,7 +457,6 @@ mas "Scapple", id: 568020055
 mas "SerialTools", id: 611021963
 mas "Sigma Planner", id: 1106938042
 mas "Singlebox", id: 1551183766
-mas "Slack", id: 803453959
 mas "Smart Countdown Timer", id: 1410709951
 mas "Smart JSON Editor", id: 1268962404
 mas "SnippetsLab", id: 1006087419
@@ -470,7 +472,6 @@ mas "TextShot", id: 6444068061
 mas "Things", id: 904280696
 mas "Tot", id: 1491071483
 mas "Transloader", id: 572281534
-mas "TweetDeck", id: 485812721
 mas "Unclutter", id: 577085396
 mas "Under My Roof", id: 1524335878
 mas "UPDF", id: 1619925971
@@ -549,6 +550,7 @@ vscode "harryhopkinson.vs-code-runner"
 vscode "hars.cppsnippets"
 vscode "haskell.haskell"
 vscode "hbenl.vscode-test-explorer"
+vscode "hikerpig.pintora-vscode"
 vscode "hoovercj.haskell-linter"
 vscode "ionutvmi.path-autocomplete"
 vscode "izaxon.todo"
@@ -627,6 +629,7 @@ vscode "parthr2031.colorful-comments"
 vscode "pcsoftware.readable"
 vscode "phoityne.phoityne-vscode"
 vscode "phplasma.csv-to-table"
+vscode "platformio.platformio-ide"
 vscode "plorefice.devicetree"
 vscode "pnp.polacode"
 vscode "puorc.awesome-vhdl"
