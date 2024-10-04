@@ -22,6 +22,7 @@ tap "samtay/tui"
 tap "stateful/tap"
 tap "tabbyml/tabby"
 tap "zegervdv/zathura"
+brew "freetype"
 brew "glib"
 brew "pixman"
 brew "zstd"
@@ -176,6 +177,7 @@ brew "nushell"
 brew "ollama"
 brew "onefetch"
 brew "openvpn"
+brew "otf2bdf"
 brew "pcalc"
 brew "pdm"
 brew "pfetch"
@@ -222,6 +224,7 @@ brew "vips"
 brew "vitetris"
 brew "w3m"
 brew "watson"
+brew "websocat"
 brew "wget"
 brew "wireguard-tools"
 brew "wtf"
@@ -400,6 +403,7 @@ mas "Black Ink", id: 1487333695
 mas "Brain3k", id: 1587505104
 mas "Caffeinated", id: 1362171212
 mas "Calca", id: 635758264
+mas "Canary Mail", id: 1236045954
 mas "Charmstone", id: 1563735522
 mas "Cleaner for Xcode", id: 1296084683
 mas "Color Picker", id: 1545870783
@@ -452,7 +456,7 @@ mas "Mimeo Photos", id: 1282504627
 mas "MindNode", id: 1289197285
 mas "Minesweeper", id: 1475921958
 mas "Mini Motorways", id: 1456188526
-mas "Moom", id: 419330170
+mas "Moom Classic", id: 419330170
 mas "New File Menu", id: 1064959555
 mas "Next Meeting", id: 1017470484
 mas "Night Sky", id: 475772902
@@ -712,6 +716,7 @@ vscode "trond-snekvik.gnu-mapfiles"
 vscode "trunk.io"
 vscode "tshino.kb-macro"
 vscode "twxs.cmake"
+vscode "usernamehw.errorlens"
 vscode "vadimcn.vscode-lldb"
 vscode "visualstudioexptteam.intellicode-api-usage-examples"
 vscode "visualstudioexptteam.vscodeintellicode"
