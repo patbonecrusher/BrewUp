@@ -329,7 +329,6 @@ cask "meld"
 cask "microsoft-auto-update"
 cask "microsoft-edge"
 cask "microsoft-teams"
-cask "min"
 cask "monitorcontrol"
 cask "mono-mdk-for-visual-studio"
 cask "netnewswire"
@@ -513,6 +512,7 @@ mas "Usage", id: 1561788435
 mas "Vimari", id: 1480933944
 mas "Weather Radar Live", id: 948089421
 mas "WiFi Explorer", id: 494803304
+mas "Windows App", id: 1295203466
 mas "WireGuard", id: 1451685025
 mas "Xcode", id: 497799835
 mas "Xmind", id: 1327661892
