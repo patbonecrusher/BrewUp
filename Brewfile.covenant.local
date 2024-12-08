@@ -275,6 +275,7 @@ cask "capacities"
 cask "cheatsheet"
 cask "cloudmounter"
 cask "commander-one"
+cask "confectionery"
 cask "coolterm"
 cask "copyq"
 cask "daisydisk"
@@ -448,6 +449,7 @@ mas "Install OS X Mavericks", id: 675248567
 mas "Irvue", id: 1039633667
 mas "iWifi", id: 1476136371
 mas "Jigsaws Galore", id: 426250075
+mas "Kaomoji Drawer", id: 6670708214
 mas "Keka", id: 470158793
 mas "Keynote", id: 409183694
 mas "Kindle", id: 302584613
